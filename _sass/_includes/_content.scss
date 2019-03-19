@@ -5,9 +5,9 @@
 // - - - - - - - - - - - - - - - - - -
 
 .intro {
-	
+
 	h1 {
-		
+
 		@include mq(tabletp) {
 			white-space: pre-line;
 		}
@@ -180,7 +180,7 @@
 				font-size: $p-large;
 			}
 		}
-		
+
 		tr {
 
 			&:nth-child(2n) {
@@ -204,6 +204,10 @@
 		margin: 40px auto;
 	}
 
+
+
+
+
 	&:first-child {
 		margin-top: 0;
 	}
@@ -212,6 +216,12 @@
 .image-wrap img {
 	margin: 0 auto;
 }
+
+.image-wrap{
+	img[src$="#full"] {
+		margin-left:-5.5%;
+		width: 111%;
+		max-width: none;}}
 
 .video {
 	position: relative;
