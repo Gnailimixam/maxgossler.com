@@ -384,7 +384,7 @@ html, body {
   height: 100%; }
 
 body {
-  font-family: "Muli", sans-serif;
+  font-family: "Noto Serif", serif;
   font-weight: 400;
   font-style: normal;
   line-height: 1;
@@ -394,7 +394,7 @@ html {
   background: #ffffff; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Noto Serif", serif;
+  font-family: "Muli", sans-serif;
   color: #2A2F36; }
   h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
     margin-top: 0; }
@@ -733,7 +733,7 @@ section {
 
 .header__title {
   font-size: 32px;
-  font-family: "Muli", sans-serif;
+  font-family: "Noto Serif", serif;
   font-weight: 700;
   letter-spacing: -0.02em;
   line-height: 1;
@@ -878,7 +878,7 @@ section {
       margin-left: 0; } }
 
 .menu__list__item__link {
-  font-family: "Noto Serif", serif;
+  font-family: "Muli", sans-serif;
   font-size: 30px;
   font-weight: 600;
   color: #ffffff;
