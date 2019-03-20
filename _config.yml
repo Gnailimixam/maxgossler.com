@@ -43,7 +43,7 @@ kramdown:
   syntax_highlighter: rouge
 
 sass:
-  style: compressed
+  style: nested
 
 plugins:
   - jekyll-paginate
