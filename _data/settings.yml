@@ -16,6 +16,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    # - title: 'Impressum'
+    #   url: '/impressum'
 
 footer_settings:
   logo_image:

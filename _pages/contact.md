@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Leaf me a message if are interested to work with me.
+subtitle: Leave me a message if are interested in working with me:
 description: Duet is a beautiful Jekyll portfolio theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
@@ -15,4 +15,4 @@ Wilhelm-Raabe-Strasse 5
 
 
 
-[info@maxgossler.com](mailto:info@maxgossler.com)
+<a onClick="javascript:window.open('mailto:info@maxgossler.com', 'Mail');event.preventDefault()" href="/contact" target="_top">info@maxgossler.com</a>
