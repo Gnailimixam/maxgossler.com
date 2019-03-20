@@ -732,7 +732,7 @@ section {
   height: auto; }
 
 .header__title {
-  font-size: 32px;
+  font-size: 25px;
   font-family: "Noto Serif", serif;
   font-weight: 700;
   letter-spacing: -0.02em;
@@ -742,10 +742,10 @@ section {
     color: #FFC328; }
   @media only screen and (min-width: 768px) {
     .header__title {
-      font-size: 40px; } }
+      font-size: 30px; } }
   @media only screen and (min-width: 1220px) {
     .header__title {
-      font-size: 50px; } }
+      font-size: 35px; } }
 
 @media only screen and (min-width: 1024px) {
   .menu {
@@ -941,7 +941,7 @@ section {
   width: 200px; }
 
 .footer__title {
-  font-size: 32px;
+  font-size: 25px;
   font-weight: 700;
   letter-spacing: -0.02em;
   line-height: 1;
@@ -950,10 +950,10 @@ section {
     color: #2A2F36; }
   @media only screen and (min-width: 768px) {
     .footer__title {
-      font-size: 40px; } }
+      font-size: 30px; } }
   @media only screen and (min-width: 1220px) {
     .footer__title {
-      font-size: 50px; } }
+      font-size: 35px; } }
 
 .footer__text {
   color: #ABB7B7; }
