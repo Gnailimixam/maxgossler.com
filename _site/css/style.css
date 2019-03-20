@@ -731,6 +731,7 @@ section {
 
 .header__title {
   font-size: 32px;
+  font-family: "Muli", sans-serif;
   font-weight: 700;
   letter-spacing: -0.02em;
   line-height: 1;
@@ -875,6 +876,7 @@ section {
       margin-left: 0; } }
 
 .menu__list__item__link {
+  font-family: "Noto Serif", serif;
   font-size: 30px;
   font-weight: 600;
   color: #ffffff;

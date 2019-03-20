@@ -35,6 +35,8 @@ $error-color: {{ site.data.settings.color_settings.error_color }};
 
 $body-font: {{ site.data.settings.font_settings.body_font }};
 $title-font: {{ site.data.settings.font_settings.title_font }};
+$sitetitle-font: {{ site.data.settings.font_settings.sitetitle_font }};
+$menu-font: {{ site.data.settings.font_settings.menu_font }};
 
 
 $regular-weight: {{ site.data.settings.font_settings.regular_weight }};
