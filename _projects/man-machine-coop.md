@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/man-machine-coop/0.jpg'
 ---
 
-![](/images/man-machine-coop/01_b_.jpg#full)
+![](/images/man-machine-coop/0.jpg#full)
 
 ## Demo content
 
@@ -18,7 +18,7 @@ We've included everything you need to create engaging posts about your work, and
 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-
+![](/images/man-machine-coop/01_b_.jpg)
 
 > “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 

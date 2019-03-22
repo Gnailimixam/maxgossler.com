@@ -6,95 +6,26 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/punkah/0.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/punkah/1_1.jpg#full)
 
-## Demo content
+The punkah is a ceiling fan that was swung by a servant manually. This principle has been applied during the colonial era in India and with the help of electricity it was used for ventilation all around the world at the end of the 19th century. The gentle movement fascinated me so much that I wanted to bring the punkah back to life. 
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+The model for the gentle movement and the efficient aerodynamics was the bird wing.  The special design with the motor sitting inside the wing allows several arrangements, such as a double-wing or a mounting directly to the wall.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+A possible scenario for the use of the punkah, could be an individual ventilation at the workplace.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-You can create lists:
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+<br/>
 
-And:
+Together with BASF , the projects were issued at the Salone Internazionale del Mobile in 2015.
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+Cooperation together with BASF for their 150th anniversary. The Projects were presented at the Salone del Mobile 2015 in the Brera district
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+[inspired-by 1865](http://inspired-by.abk-stuttgart.de/)
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+<iframe src="https://player.vimeo.com/video/123646562?autoplay=0&color=ffffff&title=0&byline=0&portrait=0#t=5m06s" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-The theme also supports markdown tables:
+Photos by Gerhardt Kellermann. 
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+Productfilm by Maximilian Haslauer & Jonas Zieher.
