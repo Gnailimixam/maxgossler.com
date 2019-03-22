@@ -1192,6 +1192,7 @@ section {
   visibility: hidden;
   position: relative;
   max-width: 90%;
+  max-height: 50%;
   margin: 20px auto; }
   @media only screen and (min-width: 768px) {
     .gallery {
@@ -1208,7 +1209,8 @@ section {
 .gallery__item {
   position: relative; }
   .gallery__item img {
-    width: 100%; }
+    heigth: 50%;
+    width: auto; }
 
 .gallery--carousel .gallery__item__link {
   display: block;

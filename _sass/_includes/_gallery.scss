@@ -8,6 +8,7 @@
 	visibility: hidden;
 	position: relative;
 	max-width: 90%;
+	max-height: 50%;
 	margin: 20px auto;
 
 	@include mq(tabletp) {
@@ -31,7 +32,8 @@
 	position: relative;
 
 	img {
-		width: 100%;
+		heigth: 50%;
+		width: auto;
 	}
 }
 
