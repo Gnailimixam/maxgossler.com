@@ -12,8 +12,8 @@ menu_settings:
       url: '/'
     #- title: 'Blog'
     #  url: '/blog/'
-    - title: 'About'
-      url: '/about'
+    #- title: 'About'
+    #  url: '/about'
     - title: 'Contact'
       url: '/contact'
     # - title: 'Impressum'
@@ -74,6 +74,9 @@ color_settings:
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
+
+image_settings:
+  img_wrap_max_width: 85%
 
 font_settings:
   #font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'

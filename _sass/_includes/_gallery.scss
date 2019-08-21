@@ -7,8 +7,8 @@
 .gallery {
 	visibility: hidden;
 	position: relative;
-	max-width: 90%;
-	max-height: 50%;
+	max-width: $img-wrap-max-width;
+
 	margin: 20px auto;
 
 	@include mq(tabletp) {
@@ -32,8 +32,7 @@
 	position: relative;
 
 	img {
-		heigth: 50%;
-		width: auto;
+		width: 100%;
 	}
 }
 

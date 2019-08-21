@@ -6,95 +6,60 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/explorator/0.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/explorator/1.jpg#full)
 
-## Demo content
-
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+In 1865 the industrial revolution was in full swing, bringing droves of people into the cities. These people often lived and slept in inhumane quarters and on improvised bedding. Around the same time Louis Vuitton patented the collapsible trunk bed, intended to allow travelers to bring the comfort of home with them.
+Improvised living conditions are unfortunately still highly topical. We focused on the standard camp bed, that has gone largely unchanged for decades and analyzed its weaknesses.
+Usability, hygiene, comfort.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/explorator/katrina refugees in superbowl 14461.jpg">
+	<img src="/images/explorator//IMG_20150127_1435331-1024x683.jpg">
 </div>
 
-### What about videos?
+While the standard camp bed is built to be strapped to a soldiers backpack, this level of disassembly brings a host of difficulties, from losable parts to fabric tension. Explorator packs up flat (thus allowing the surface to come pre-tensioned) and has no loose parts to lose.
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+![](/images/explorator/all.jpg)
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<br/>
+
+<br/>
+
+By using plastics we were able to achieve both hygiene and comfort. We developed an algorithm to create a dynamic pattern of incisions that lead to a local variance in the surface flexibility of the plastic surface. All the comfort of an orthopedic mattress out of a 4mm thick plastic sheet.
+
+<div class="gallery" data-columns="2">
+	<img src="/images/explorator/DSC0739_1.jpg">
+	<img src="/images/explorator/DSC0651.jpg">
+</div>
+
+<br/>
+<div class="gallery" data-columns="1">
+	<img src="/images/explorator/2_DSC0568.jpg">
+	<img src="/images/explorator/2_DSC0576_3.jpg">
+	<img src="/images/explorator/2_DSC0726_2.jpg">
+</div>
+<br/>
+
+Pictures of the modelmaking process.
+<div class="gallery" data-columns="3">
+	<img src="/images/explorator/IMG_2398.JPG">
+	<img src="/images/explorator/IMG_8477.JPG">
+	<img src="/images/explorator/IMG_1107.JPG">
+	<img src="/images/explorator/IMG_8718.JPG">
+	<img src="/images/explorator/IMG_8809.JPG">
+</div>
+<br/>
+<br/>
+<iframe src="https://player.vimeo.com/video/123646562?autoplay=0&color=ffffff&title=0&byline=0&portrait=0#t=4m44s" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
-## Pretty cool, huh?
+<br/>The project [inspired-by 1865](http://inspired-by.abk-stuttgart.de/) was a collaboration between the Stuttgart Academy of Fine Arts and the chemical company [BASF](http://www.designfabrik.basf.de/group/corporate/designfabrik/de_DE/projects/fabriktage2015).
 
-We've packed this theme with powerful features to show off your work.
+Based on the technological and socioeconomic context on BASFs founding year 1865,  a series of objects using the company's state of the art plastics were developed. These objects were presented at the Salone del Mobile 2015 in the Brera district
 
-Why not put them to use on your new portfolio?
+<br/>
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+Photos by Gerhardt Kellermann. 
+
+Productfilm by Maximilian Haslauer & Jonas Zieher.

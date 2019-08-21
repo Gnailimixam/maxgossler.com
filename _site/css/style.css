@@ -1113,11 +1113,16 @@ section {
   .single table tr:nth-child(2n) {
     background: #f4f5f6; }
 
+.image-wrap img[src$="#full"] {
+  margin-left: -8.775%;
+  width: 117.55%;
+  max-width: none; }
+
 .image-wrap,
 .video-wrap {
   position: relative;
-  max-width: 90%;
-  margin: 20px auto; }
+  max-width: 85%;
+  margin: 30px auto; }
   @media only screen and (min-width: 768px) {
     .image-wrap,
     .video-wrap {
@@ -1132,11 +1137,6 @@ section {
 
 .image-wrap img {
   margin: 0 auto; }
-
-.image-wrap img[src$="#full"] {
-  margin-left: -5.5%;
-  width: 111%;
-  max-width: none; }
 
 .video {
   position: relative;
@@ -1191,8 +1191,7 @@ section {
 .gallery {
   visibility: hidden;
   position: relative;
-  max-width: 90%;
-  max-height: 50%;
+  max-width: 85%;
   margin: 20px auto; }
   @media only screen and (min-width: 768px) {
     .gallery {
@@ -1209,8 +1208,7 @@ section {
 .gallery__item {
   position: relative; }
   .gallery__item img {
-    heigth: 50%;
-    width: auto; }
+    width: 100%; }
 
 .gallery--carousel .gallery__item__link {
   display: block;

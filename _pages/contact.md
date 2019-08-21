@@ -6,13 +6,12 @@ featured_image: /images/demo/demo-landscape.jpg
 ---
 
 <!-- {% include contact-form.html %} -->
-
 Maximilian Goßler
 
 Wilhelm-Raabe-Strasse 5
 
 70199 Stuttgart
-
-
+<br/>
+<br/>
 
 <a onClick="javascript:window.open('mailto:info@maxgossler.com', 'Mail');event.preventDefault()" href="/contact" target="_top">info@maxgossler.com</a>

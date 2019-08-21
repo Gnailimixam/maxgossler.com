@@ -190,11 +190,18 @@
 	}
 }
 
+.image-wrap{
+	img[src$="#full"] {
+		margin-left:((($img-wrap-max-width*0.97)/2)-50) ;
+		width: ((100%-($img-wrap-max-width*0.97)+100%));
+		max-width: none;}}
+
+
 .image-wrap,
 .video-wrap {
 	position: relative;
-	max-width: 90%;
-	margin: 20px auto;
+	max-width: $img-wrap-max-width;
+	margin: 30px auto;
 
 	@include mq(tabletp) {
 		margin: 30px auto;
@@ -217,11 +224,7 @@
 	margin: 0 auto;
 }
 
-.image-wrap{
-	img[src$="#full"] {
-		margin-left:-5.5%;
-		width: 111%;
-		max-width: none;}}
+
 
 .video {
 	position: relative;

@@ -13,15 +13,15 @@ The punkah is a ceiling fan that was swung by a servant manually. This principle
 ![](/images/punkah/2.jpg)
 
 
-
 Inspiration for the gentle movement and the efficient aerodynamics was the wing of a bird.  The special design with the motor sitting inside the wing allows several arrangements, such as a double-wing or a mounting directly to the wall.
+
+![](/images/punkah/2_DSC1107_1_1_1_1_1.jpg)
 
 <div class="gallery" data-columns="1">
 	<img src="/images/punkah/motor_skizze.jpg">
 	<img src="/images/punkah/Doppel.png">
-    <img src="/images/punkah/IMG_8835_.JPG">
+    <img src="/images/punkah/2IMG_8835_.JPG">
 </div>
-
 <br/>
 
 <br/>
@@ -37,7 +37,7 @@ A possible scenario for the use of the punkah, could be an individual ventilatio
 </div>
 
 
-	
+​	
 
 <br/>
 
