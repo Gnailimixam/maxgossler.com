@@ -37,7 +37,7 @@ A possible scenario for the use of the punkah, could be an individual ventilatio
 </div>
 
 
-​	
+---
 
 <br/>
 
