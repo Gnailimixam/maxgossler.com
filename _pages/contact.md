@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: 'Leave me a message if you are interested in working with me:'
+subtitle: 
 description: Duet is a beautiful Jekyll portfolio theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---

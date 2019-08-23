@@ -40,7 +40,7 @@ By using plastics we were able to achieve both hygiene and comfort. We developed
 </div>
 <br/>
 
-Pictures of the modelmaking process.
+The pattern was evolved through small tests made with a laser-cutter.
 <div class="gallery" data-columns="3">
 	<img src="/images/explorator/IMG_2398.JPG">
 	<img src="/images/explorator/IMG_8477.JPG">
@@ -62,4 +62,4 @@ Based on the technological and socioeconomic context on BASFs founding year 1865
 
 Photos by Gerhardt Kellermann. 
 
-Productfilm by Maximilian Haslauer & Jonas Zieher.
+Video by Maximilian Haslauer & Jonas Zieher.

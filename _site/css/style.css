@@ -484,10 +484,10 @@ p, ul, ol {
   letter-spacing: 0em; }
   @media only screen and (min-width: 768px) {
     p, ul, ol {
-      font-size: 19px; } }
+      font-size: 17px; } }
   @media only screen and (min-width: 1220px) {
     p, ul, ol {
-      font-size: 21px; } }
+      font-size: 19px; } }
   p strong, ul strong, ol strong {
     font-weight: 600; }
   p:first-child, ul:first-child, ol:first-child {
@@ -1077,10 +1077,10 @@ section {
   overflow: auto; }
   @media only screen and (min-width: 768px) {
     .single .highlight {
-      font-size: 16.15px; } }
+      font-size: 14.45px; } }
   @media only screen and (min-width: 1220px) {
     .single .highlight {
-      font-size: 17.85px; } }
+      font-size: 16.15px; } }
   .single .highlight .highlight {
     padding: 20px; }
     @media only screen and (min-width: 768px) {
@@ -1105,11 +1105,11 @@ section {
     @media only screen and (min-width: 768px) {
       .single table th, .single table td {
         padding: 15px;
-        font-size: 19px; } }
+        font-size: 17px; } }
     @media only screen and (min-width: 1220px) {
       .single table th, .single table td {
         padding: 20px;
-        font-size: 21px; } }
+        font-size: 19px; } }
   .single table tr:nth-child(2n) {
     background: #f4f5f6; }
 
@@ -1615,10 +1615,10 @@ section {
   color: #6C7A89; }
   @media only screen and (min-width: 768px) {
     .contact-form__label {
-      font-size: 19px; } }
+      font-size: 17px; } }
   @media only screen and (min-width: 1220px) {
     .contact-form__label {
-      font-size: 21px; } }
+      font-size: 19px; } }
 
 .contact-form__input,
 .contact-form__textarea {
@@ -1640,11 +1640,11 @@ section {
     .contact-form__input,
     .contact-form__textarea {
       padding: 15px 18px;
-      font-size: 19px; } }
+      font-size: 17px; } }
   @media only screen and (min-width: 1220px) {
     .contact-form__input,
     .contact-form__textarea {
-      font-size: 21px; } }
+      font-size: 19px; } }
   .contact-form__input:focus,
   .contact-form__textarea:focus {
     outline: none;
