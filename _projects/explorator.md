@@ -1,5 +1,5 @@
 ---
-title: 'explorator'
+title: 'Explorator'
 subtitle: 'inspired by 1865'
 date: 2014-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
