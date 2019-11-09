@@ -25,8 +25,8 @@ footer_settings:
   footer_tagline:
 
 grid_settings:
-  overlay_opacity: 0.8
-  grid_spacing: 10
+  overlay_opacity: 0.86
+  grid_spacing: 30
 
 contact_settings:
   form_action: 'https://formspree.io/info@maxgossler.com'
@@ -68,15 +68,15 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color:             '#FFC328' #'#c2f442' #'#F2784B'
-  overlay_background_color: '#FFC328' #'#c2f442' #'#F2784B'
+  accent_color:             '#A3A3A3' #'#FFC328' #'#c2f442' #'#F2784B'
+  overlay_background_color: '#A3A3A3' #'#FFC328' #'#c2f442' #'#F2784B'
   border_color: '#dddddd'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
 
 image_settings:
-  img_wrap_max_width: 85%
+  img_wrap_max_width: 60%
 
 font_settings:
   #font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
@@ -85,7 +85,7 @@ font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Noto+Serif:300,400,600,700" rel="stylesheet">'
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Lora:300,400,600,700" rel="stylesheet">'
   title_font: '"Muli", sans-serif'
-  body_font: '"Noto Serif", serif'
+  body_font: '"Muli", sans-serif'
   sitetitle_font: '"Noto Serif", serif'
   menu_font: '"Muli", sans-serif'
   regular_weight: 400
@@ -157,9 +157,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 15+1
-    medium_size: 17
-    large_size: 19
+    small_size: 17
+    medium_size: 19
+    large_size: 22
     weight: 400
     letter_spacing: 0
     line_height: 1.6
