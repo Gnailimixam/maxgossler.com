@@ -13,9 +13,7 @@
 		}
 	}
 
-	p {
-
-	}
+	//p {}
 }
 
 .content-wrap {
@@ -92,6 +90,7 @@
 		padding: 0;
 	}
 
+	
 	p a {
 		font-weight: $bold-weight;
 		border-bottom: 2px solid $accent-color;
@@ -205,10 +204,16 @@
 
 	@include mq(tabletp) {
 		margin: 30px auto;
+		max-width: 70%;
+	}
+	@include mq(tablet1) {
+		margin: 30px auto;
+		max-width: 65%;
 	}
 
 	@include mq(laptop) {
 		margin: 40px auto;
+		max-width: 60%;
 	}
 
 

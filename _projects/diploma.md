@@ -64,7 +64,7 @@ The fictional ad for this community might look like this:
 
 In a future shaped by virtual and augmented reality, there may still be a demand for handcrafted art. With the help of a haptic feedback glove, future artists can shape objects by hand that still just exist in virtual space, but can also be interactive, vivid and individual.
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/diplom/sentences_2.jpg">
 	<img src="/images/diplom/ARtisans-zettel.png">
 </div>
@@ -82,6 +82,11 @@ How an augmented world filled with handmade art might look like can be seen here
 ![](/images/diplom/Mycroft-render.jpg)
 
 In a possibly even faster future, the desire to have no permanent decision-making pressure for a period of time can be satisfied by an Intelligent Personal Assistant (IPA). In order for the IPA to actually be able to act and decide, however, it needs a judicial basis which, as an example of many other capabilities of such systems, is presented in the form of a contract between the user and a IPA.
+
+<div class="gallery" data-columns="2">
+	<img src="/images/diplom/sentences_6.jpg">
+	<img src="/images/diplom/Mycroft-zettel.png">
+</div>
 
 How such a stress-free AI-guided day feels like, you can hear in this Video:
 

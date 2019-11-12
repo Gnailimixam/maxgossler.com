@@ -7,16 +7,22 @@
 .gallery {
 	visibility: hidden;
 	position: relative;
-	max-width: $img-wrap-max-width;
+	//max-width: $img-wrap-max-width;
 
 	margin: 20px auto;
 
 	@include mq(tabletp) {
 		margin: 30px auto;
+		max-width: 70%;
+	}
+	@include mq(tablet1) {
+		margin: 30px auto;
+		max-width: 65%;
 	}
 
 	@include mq(laptop) {
 		margin: 40px auto;
+		max-width: 60%;
 	}
 
 	&:first-child {
