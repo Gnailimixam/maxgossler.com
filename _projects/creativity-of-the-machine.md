@@ -2,11 +2,7 @@
 title: 'Creativity Of The Machine'
 subtitle: 'AI Designer'
 date: 2017-06-30 00:00:00
-<<<<<<< HEAD
 description: 
-=======
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
->>>>>>> e34734e5fb0d351545a529bf0afc56624f3a6716
 featured_image: '/images/creativity-of-the-machine/8_bw.gif'
 ---
 
@@ -64,11 +60,7 @@ The outcome of the project is a small, somewhat limited and simple-minded spam b
 <br/>
 
 <iframe src="https://player.vimeo.com/video/271288204?color=ffffff&byline=0&portrait=0" width="960" height="540" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 ---
 
 <a href="/#"  class="button button--small">Back to projects</a>
-<<<<<<< HEAD
 
-=======
->>>>>>> e34734e5fb0d351545a529bf0afc56624f3a6716
