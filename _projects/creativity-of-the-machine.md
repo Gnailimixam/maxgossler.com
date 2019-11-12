@@ -52,7 +52,7 @@ What makes the designed objects so exciting, however, is exactly their  imperfec
 Furthermore the machine shows all its designs on its self-managed [Instagram account](https://www.instagram.com/3dgan/), to be seriously noticed in the world of design and to demonstrate that it can compete against all the human designers of the world.
 <div class="gallery" data-columns="2">
 	<img src="/images/creativity-of-the-machine/Unbenannt2.JPG">
-	<img src="/images/creativity-of-the-machine/insta1080.gif">
+	<img src="/images/creativity-of-the-machine/insta1080_.gif">
 </div>
 
 <br/>
