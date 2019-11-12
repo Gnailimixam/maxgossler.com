@@ -20,7 +20,7 @@ Inspiration for the gentle movement and the efficient aerodynamics was the wing 
 <div class="gallery" data-columns="1">
 	<img src="/images/punkah/motor_skizze.jpg">
 	<img src="/images/punkah/Doppel.png">
-    <img src="/images/punkah/2IMG_8835_.JPG">
+    	<img src="/images/punkah/2IMG_8835_.jpg">
 </div>
 <br/>
 
