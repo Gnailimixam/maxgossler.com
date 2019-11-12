@@ -8,9 +8,8 @@ featured_image: /images/demo/demo-landscape.jpg
 <!-- {% include contact-form.html %} -->
 Maximilian Goßler
 
-Wilhelm-Raabe-Strasse 5
-
-70199 Stuttgart
+Industrial Design<br/>
+Stuttgart, DE
 <br/>
 <br/>
 
