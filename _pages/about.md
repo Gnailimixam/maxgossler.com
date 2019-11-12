@@ -1,34 +1,36 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: About Me
+subtitle: Our life in the future / How will intelligent systems change the way we deal with the world and products? / How do we want our future shared with AI to look like?
+description: 
+featured_image: 
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<div class="gallery" data-columns="3">
+	<img src="/images/about/maximilian gossler_bw2.jpg">
+</div>
 
-## Features
+Maximilian Goßler completed his industrial design studies at the State Academy of Fine Arts in Stuttgart with a diploma in 2019. After several consumer projects, his work has focused more intensively on machines and artificial intelligence systems (AI).
 
-We've packed Duet full of powerful features to help showcase your work:
+He has a special interest in the abilities and limits of artificial intelligence, and his work explores how our future could and should be transformed by the omnipresence of AI. Maximilian Goßler has been working as a freelance industrial designer since 2019. His projects have already been presented at exhibitions in Milan and Berlin.
 
-* Beautiful, minimal design
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+## Vita
 
-## Get Duet
+**Studies**
+* 2012-2019 Industrial Design , State Academie of Fine Arts, Stuttgart
 
-Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
+**Internships**
+* 2017/18 [WertelOberfell GbR](http://www.werteloberfell.com/)
+* 2016/17 [Nils Holger Moormann](https://www.moormann.de/en/)
+* 2012 Schreinerei Meier, woodworking
+* 2012 Norys, goldsmith
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+### Exhibition
+
+* *Punkah*, Salone del Mobile, Milano, [2015](http://www.designfabrik.basf.de/group/corporate/designfabrik/de/projects/fabriktage2015)
+* *Explorator*, Salone del Mobile, Milano, [2015](http://www.designfabrik.basf.de/group/corporate/designfabrik/de/projects/fabriktage2015)
+* *Future Artefacts*, German Desin Graduates Show, Berlin, [2019](https://germandesigngraduates.com/aussteller/)
+
+### Awards
+
+* German Design Graduates, [2019](https://germandesigngraduates.com/future-artefacts/)
+* German Design Award Newcomer Finalist, [2019](https://www.german-design-award.com/die-gewinner/newcomer-finalisten-2020/maximilian-gossler-german-design-award-2020-newcomer-finalist.html)
