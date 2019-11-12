@@ -6,7 +6,7 @@ featured_image:
 ---
 
 <div class="gallery" data-columns="3">
-	<img src="/images/maximilian gossler_bw2.jpg">
+	<img src="/images/maximiliangossler_bw2.jpg">
 </div>
 
 Maximilian Goßler completed his industrial design studies at the State Academy of Fine Arts in Stuttgart with a diploma in 2019. After several consumer projects, his work has focused more intensively on machines and artificial intelligence systems (AI).
