@@ -30,3 +30,5 @@ The jointly created object is thus influenced by the interplay of human and mach
 The results of this experiment were compiled in a [scientific paper](https://www.academia.edu/33594517/Mensch-Maschinen_Kooperation) and submitted for participation to the bf-prize 2016.
 
 ---
+
+<a href="/#"  class="button button--small">Back to projects</a>
