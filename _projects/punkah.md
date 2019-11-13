@@ -1,6 +1,6 @@
 ---
 title: 'Punkah'
-subtitle: 'inspired by 1865'
+subtitle: 'inspired by 1865 | 2015'
 date: 2015-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/punkah/0.jpg'
