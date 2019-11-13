@@ -1,6 +1,6 @@
 ---
 title: 'Man Machine Cooperation'
-subtitle: 'An interactive installation'
+subtitle: 'An interactive installation | 2016'
 date: 2016-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/man-machine-coop/0.jpg'
