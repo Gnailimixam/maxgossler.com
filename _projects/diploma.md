@@ -1,6 +1,6 @@
 ---
 title: 'Future Artefacts'
-subtitle: 'Diploma Thesis'
+subtitle: 'Diploma Thesis | 2019'
 date: 2019-02-28 00:00:00
 description: 
 featured_image: '/images/diplom/google-chrome_wc_big.jpg'
