@@ -1,6 +1,6 @@
 ---
 title: 'Yno'
-subtitle: 'An intuitive bar stool'
+subtitle: 'An intuitive bar stool | 2015'
 date: 2015-06-30 00:00:00
 description:
 featured_image: '/images/yno/3.jpg'
