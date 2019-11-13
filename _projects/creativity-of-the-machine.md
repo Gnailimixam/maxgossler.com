@@ -1,6 +1,6 @@
 ---
 title: 'Creativity Of The Machine'
-subtitle: 'AI Designer'
+subtitle: 'Artificial Designer | 2017'
 date: 2017-06-30 00:00:00
 description: 
 featured_image: '/images/creativity-of-the-machine/8_bw.gif'
