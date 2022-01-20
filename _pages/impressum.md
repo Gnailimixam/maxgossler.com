@@ -7,26 +7,15 @@ featured_image: /images/demo/demo-landscape.jpg
 
 Angaben gemäß § 5 TMG
 
-Max Muster
-Musterweg
-12345 Musterstadt
+Maximilian Goßler
+Am Lerchenbuck 5
+91586 Lichtenau
 
 **Vertreten durch:**
-Max Muster
+Maximilian Goßler
 
 **Kontakt:**
-Telefon: 01234-789456
-Fax: 1234-56789
-E-Mail: [max@muster.de](mailto:max@muster.de)
-
-**Umsatzsteuer-ID:**
-Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Musterustid.
-
-**Wirtschafts-ID:**
-Musterwirtschaftsid
-
-**Aufsichtsbehörde:**
-Musteraufsicht Musterstadt
+E-Mail: [info@maxgossler.com](mailto:info@maxgossler.com)
 
 **Haftungsausschluss:**
 
