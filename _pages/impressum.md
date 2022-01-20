@@ -7,14 +7,14 @@ featured_image: /images/demo/demo-landscape.jpg
 
 Angaben gemäß § 5 TMG
 
-Maximilian Goßler
-Am Lerchenbuck 5
-91586 Lichtenau
+Maximilian Goßler, Am Lerchenbuck 5, 91586 Lichtenau
 
 **Vertreten durch:**
+
 Maximilian Goßler
 
 **Kontakt:**
+
 E-Mail: [info@maxgossler.com](mailto:info@maxgossler.com)
 
 **Haftungsausschluss:**
