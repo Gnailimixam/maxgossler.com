@@ -9,7 +9,6 @@ featured_image: /images/demo/demo-landscape.jpg
 Maximilian Goßler
 
 Industrial Design<br/>
-Stuttgart, DE
 <br/>
 <br/>
 
