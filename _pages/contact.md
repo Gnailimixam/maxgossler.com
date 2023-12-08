@@ -12,4 +12,4 @@ Industrial Design<br/>
 <br/>
 <br/>
 
-<a onClick="javascript:window.open('mailto:info@maxgossler.com', 'Mail');event.preventDefault()" href="/contact" target="_top">info@maxgossler.com</a>
+<a onClick="javascript:window.open('mailto:maximilian.gossler@gmail.com', 'Mail');event.preventDefault()" href="/contact" target="_top">Drop me some lines</a>
